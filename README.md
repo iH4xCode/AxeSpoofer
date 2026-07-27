@@ -1,10 +1,18 @@
+<p align="center">
+  <img src="screenshots/icon.png" alt="Axe Spoofer Logo" width="144" height="144">
+</p>
+
+<h1 align="center">Axe Spoofer</h1>
+
+<p align="center">
+  A modern LSPosed module for spoofing Android device identifiers.
+</p>
+
 # Axe Spoofer
 
 ![Android](https://img.shields.io/badge/Android-10%2B-green)
 ![LSPosed](https://img.shields.io/badge/LSPosed-Compatible-blue)
 ![Version](https://img.shields.io/badge/version-v1.0.0-purple)
-
-A modern LSPosed module for spoofing Android device identifiers.
 
 
 
