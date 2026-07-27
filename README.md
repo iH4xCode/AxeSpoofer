@@ -54,7 +54,7 @@ Download the latest version from the **[Releases](../../releases)** page.
 
 ## Screenshots
 
-<div align="center">
+<div>
   <img src="screenshots/Ui.jpg" alt="Axe Spoofer Home Screen" width="220"/>
 </div>
 
