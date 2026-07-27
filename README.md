@@ -1,4 +1,4 @@
-<img src="assets/icon.png" alt="Axe Spoofer Logo" width="144" height="144">
+<img src="screenshots/icon.png" alt="Axe Spoofer Logo" width="144" height="144">
 
 # Axe Spoofer
 
